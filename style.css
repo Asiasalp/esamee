@@ -1,0 +1,33 @@
+body{
+    font-family: sans-serif;
+    background-color:#FFE0B4;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+header{
+    max-width: 1200px;
+    background-color: #623a38;
+    margin:auto;
+    padding:5px
+   
+
+}
+main, footer {
+    max-width: 800px;
+    margin: auto;
+}
+
+main {
+    max-width: 1200px;
+    background-color: #FFE0B4;
+    margin:auto;
+    }
+    footer{
+        max-width: 1200px;
+        background-color: #623a38;
+        margin:auto;
+    }
