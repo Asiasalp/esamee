@@ -1,33 +1,112 @@
-body{
-    font-family: sans-serif;
-    background-color:#FFE0B4;
-    margin: 0;
-}
-
-img {
-    max-width: 100%;
-}
-
-header{
-    max-width: 1200px;
-    background-color: #623a38;
-    margin:auto;
-    padding:5px
-   
-
-}
-main, footer {
-    max-width: 800px;
-    margin: auto;
-}
-
-main {
-    max-width: 1200px;
+.tasti nav ul{
+    list-style: none;
+    font-size: 25pt;
+    word-spacing: 100px;
+    padding-top: 30px;
+    color: #fff;
+  }
+  
+  .tasti a:hover{
+    text-decoration: underline;
+  }
+  
+  header{
+    height: 100px;
+    background-color: #623A38;
+  
+  body{
     background-color: #FFE0B4;
-    margin:auto;
-    }
-    footer{
-        max-width: 1200px;
-        background-color: #623a38;
-        margin:auto;
-    }
+    }  }
+  
+  .cdm h1{
+    width: 600px;
+    font-size: 50pt;
+    font-style: bold;
+    text-align: center;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #5B3131;
+    border-width: 5pt;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 610px;
+    color: #F4C27A;
+    -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color:#5B3131 ;
+  }
+  
+  .par h1{
+    text-align: center;
+    font-size: 25pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #F4C27A;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color:#5B3131 ;
+  }
+  
+  .img1 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .img1 img {
+    display: block;
+    width: 1400px;
+    height: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  
+  .intro {
+    text-align: center;
+  }
+  
+  .par2 p{
+    display: inline-block;
+    font-size: 25pt;
+    width: 1000px;
+  }
+  
+  .par3 p{
+    display: inline-block;
+    font-size: 25pt;
+    width: 1000px;
+  }
+  
+  .titd h1{
+    padding-top: 100px;
+    padding-left: 260px;
+    padding-bottom: 50px;
+    font-size: 25pt;
+    color: #F4C27A;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:#5B3131 ;
+  }
+  
+  
+  .imgd{
+    max-width: 1400px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+  }
+  
+  .tits h1{
+    padding-top: 100px;
+    padding-left: 260px;
+    padding-bottom: 50px;
+    font-size: 25pt;
+    color: #F4C27A;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:#5B3131 ;
+  }
+  
+  
+  .imgs{
+    max-width: 1400px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+  }
