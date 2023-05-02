@@ -26,30 +26,23 @@ img {
     background-color: #FFE0B4;
   }
   
-  .cdm h1{
-    width: 600px;
-    font-size: 50pt;
-    font-style: bold;
+  .cdm h1{ 
     text-align: center;
-    margin-top: 50px;
+   font-size: 50pt;
+    font-style: bold;
+   margin-top: 50px;
     border-style: solid;
     border-color: #5B3131;
     border-width: 5pt;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    margin-left: 610px;
-    color: #F4C27A;
-    -webkit-text-stroke-width: 3px;
-  -webkit-text-stroke-color:#5B3131 ;
+    color: #5b3131;
   }
   
   .par h1{
     text-align: center;
     font-size: 25pt;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #F4C27A;
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color:#5B3131 ;
+    color: #5b3131;
+  
   }
   
 
@@ -74,10 +67,8 @@ img {
     padding-top: 100px;
     padding-left: 260px;
     padding-bottom: 50px;
-    font-size: 25pt;
-    color: #F4C27A;
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color:#5B3131 ;
+    font-size: 40pt;
+    color: #5B3131;
   }
   
   
@@ -92,7 +83,8 @@ img {
     padding-top: 100px;
     padding-left: 260px;
     padding-bottom: 50px;
-    font-size: 25pt;
+   max-width: 100%;
+    font-size: 40pt;
     color: #5B3131
   }
   
